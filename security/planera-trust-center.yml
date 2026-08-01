@@ -1,0 +1,17 @@
+generated: '2026-07-20'
+method: searched
+probe: true
+source: https://trust.planera.io/
+url: https://trust.planera.io/
+certifications:
+- SOC 2 Type 1
+- SOC 2 Type 2
+- SOC 3
+monitoring: Secureframe
+security_contact: security@planera.io
+evidence:
+- source: https://trust.planera.io/
+  keywords:
+  - soc 2
+  - soc2
+  - trust center
